@@ -1,0 +1,190 @@
+@font-face	{
+		font-family: Buffalo;
+		src:	url(modernline.otf);
+		font-family: cargo-regular;
+		src: url(Cardo-Regular.ttf);
+}
+body {
+background: url(../gif/fundopag.gif);
+width: 1024px;
+margin-left: 200px;
+margin-right: 200px;
+padding-left: 200px;
+padding-right:200px;
+font-family: cargo-regular; 
+font-size: 12px;
+text-align: center
+}
+.cabsobre{
+	display:flex;
+}
+
+.sobrenos{
+color: #748250	
+}
+
+.title2{
+font-size: 30px;
+font-family: cargo-regular;
+}	
+
+nav{
+	width:550px;
+}
+.titulo { 
+font-family: Buffalo;
+font-size: 60px;
+margin-left: -25px;
+width: 350px;
+margin-top: -15px;
+}
+
+.texto1 {
+font-size: 12px;
+text-align: justify
+}
+.text2 {
+padding-top: 19px;
+text-align: justify
+}
+
+header{
+width: 100%;
+border: 2px solid #F2F1EB;
+background:#F2F1EB;
+clear: both;
+padding: 15px 0;
+height: 60px;
+margin-top: -7px;
+}
+
+.menu-opcoes {
+display: inline;
+text-align: inline;
+}	
+
+.titlename {	
+font-family: cargo-regular; 
+font-size: 20px;
+
+}
+.cabsobrenav {
+	margin:26px;
+	margin-left: 200px;
+	margin-right:10px;
+	margin-top: 15px;
+	font-size: 15px;
+}
+.cabsobrenav a {
+	padding:5px;
+}
+
+.tay{
+width: 10px;
+font-family: cargo-regular;
+font-size: 20px;
+display: inline;
+}
+.tay p {
+	width: 495px;
+	text-align: justify;
+	margin-bottom: 50px;
+	margin-left: 40px;
+}
+.tay h1 {
+	width: 500px;
+	font-size: 24px;
+	text-align: justify;
+	margin-top: 80px;
+	margin-left: 40px;
+}
+.tayet img{
+width: 380px;
+margin-top: -410px;
+margin-bottom: 15px;
+margin-left: 600px;
+}
+
+.ray{
+width: 10px;
+font-family: cargo-regular;
+font-size: 20px;
+display: inline;
+}
+.ray p {
+	width: 495px;
+	text-align: justify;
+	margin-top: 3px;
+	margin-bottom: 70px;
+	margin-left: 480px;
+}
+.ray h1 {
+	width: 510px;
+	font-size: 24px;
+	text-align: justify;
+	margin-top: -420px;
+	margin-left: 480px;
+}
+.rayet img{
+width: 400px;
+margin-top: 15px;
+margin-bottom: 300x;
+margin-right: 600px;
+}
+
+footer {
+width: 100%;
+border: 2px solid #F2F1EB;
+background:#F2F1EB;
+clear: both;
+padding: 19px 0;
+height: 60px;
+margin-top: 50px;
+}
+
+.rod1{
+right: 50px;
+left: 160px;
+display: inline-block;
+}	
+#ist{
+	display: flex;
+	
+}
+#eml{
+	display: flex;
+	margin-left:585px;
+}
+#ist_img{
+	margin:5px;
+	margin-right:10px;
+	margin-left:25px;
+}
+#ist_img2{
+	margin:5px;
+	margin-right:10px;
+	margin-left:10px;
+}
+a{
+	text-decoration: none ;
+	color:black;
+}
+
+a:hover{
+	color:#fff;
+}
+.social2 a:hover{
+	color:#C8AC9C;
+}
+#card img:hover{
+	 transform: scale(0.8, 0.8);
+    background:white;
+    box-shadow: 2px 2px 20px rgba(0,0,0,.5);
+}
+.social2{
+	text-align:left;
+}
+.social{
+	text-align:right;
+}
+

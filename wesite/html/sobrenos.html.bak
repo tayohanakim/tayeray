@@ -1,0 +1,77 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Sobre Nós</title>
+		<link rel="stylesheet" href="../css/sobrenos.css">
+		<link href= "wesite/font/cardo" rel='stylesheet'>
+		 <link rel="stylesheet" href="css/bootstrap.css">
+		 <link href='https://css.gg/instagram.css' rel='stylesheet'>
+	</head>
+		<body>
+			<header class= "cabsobre">
+				<label class="titulo">Tay & Ray</label>
+				<nav class="cabsobrenav">
+						<a href="index.html">HOME PAGE</a> <!-- para virar link será utilizado o "a" -->
+						<a href="sobrenos.html" class="sobrenos">SOBRE NÓS</a>
+						<a href="#">EXPERIÊNCIAS</a>
+						<a href="">CURIOSIDADES</a>
+				</nav>
+			</header>
+				<span class="tay">
+				<h1 class="titlename"> Tayohana Cristina Macedo </h1>
+				<p> Nascida e criada em Belo Horizonte-MG, adoro pão de queijo, 
+				queijo com goiabada, e todo doce que mineiro gosta. Sou apaixonada por livros, 
+				doramas e música. Sou tímida até me darem um pouco de intimidade. Sou uma mulher 
+				com cara de menina, mas a mente é de uma idosa. Talvez eu seja chata e impaciente, 
+				mas você só terá certeja depois de uns anos convivendo comigo. Sou um livro aberto 
+				e se pedir minha opinião, prepare os ouvidos! Virginiana com ascendente em Capricórnio, 
+				sou analítica demais. Ainda estou aprendendo que agradar a todo mundo, não é o meu papel, 
+				e que se cobrar demais, pode ser ruim. </p>
+				</span>
+				<span class="tayet"> 
+					<img src="../fotos/perfiltay.png" alt="Tayohana"> </a>
+				</span>
+
+				<span class="ray">
+				<span class="rayet"> 
+					<img src="../fotos/perfilray.png" alt="Rayana"> </a>
+				</span>
+				<h1 class="titlename"> Rayana Victória de Macedo </h1>
+				<p>Uma orgulhosa mineira de personalidade forte que ama arte e uma boa comida. Nascida e criada 
+				em Belo Horizonte, aprendi cedo a caminhar com meus próprios pés. Desde muito nova, sempre me preocupei 
+				com os estudos e em ser a melhor no que eu faço. Dedicação e esforço foram os valores que me guiaram até 
+				onde aqui. Não tenho um histórico escolar impecável, mas me sinto orgulhosa em dizer que dei o meu melhor.
+				Atualmente, com meus dezenove anos de idade, já me sinto pronta para conquistar o que almejo e encaminhada em meus 
+				objetivos e planejamento de vida. Auto conhecimento e equilíbrio definem a minha fé nessa caminhada e é o que 
+				me mantem sã. Minha visão de futuro é basicamente eu dublando em um estúdio ou dirigindo e roteirizando uma série. 
+				É assim que me vejo, futuramente. Minha paixão pela arte não é apenas um hobbie, como muitos disseram, e sim um estilo de vida.</p>
+				</span>
+				
+						<footer>
+						<div id="ist">
+						<div class="rod1">
+						<img id="ist_img" src="../fotos/iconeinstagram.png" alt="Instagram">
+						</div>
+							<div class="social2">
+							<br>
+									<a href="https://www.instagram.com/tayohanakim/">@tayohanakim</a></li>
+									<br><br>
+									<a href="https://www.instagram.com/rayanavictoria_/">@rayanavictoria_</a></li>									
+									
+							</div>
+							
+							<div id="eml">
+							<div class="social">
+							<br>
+									<label>tayohanam@gmail.com</label>
+									<br><br>
+									<label>rayanavictoriademacedo@gmail.com</label>									
+									
+							</div>
+							<div>
+						<img id="ist_img2" src="../fotos/iconeemail.png" alt="Email">
+						</div>
+							</div>
+							</div>
+						</footer>
+		</body>

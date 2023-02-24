@@ -1,0 +1,172 @@
+@font-face	{
+		font-family: Buffalo;
+		src:	url(modernline.otf);
+		font-family: cargo-regular;
+		src: url(Cardo-Regular.ttf);
+}
+body {
+background: url(../gif/fundopag.gif);
+width: 1024px;
+margin-left: 200px;
+margin-right: 200px;
+padding-left: 200px;
+padding-right:200px;
+font-family: cargo-regular; 
+font-size: 12px;
+text-align: center
+}
+.cabsobre{
+	display:flex;
+}
+
+.experiencias{
+color: #748250	
+}
+
+nav{
+	width:550px;
+}
+.titulo { 
+font-family: Buffalo;
+font-size: 60px;
+margin-left: -25px;
+width: 350px;
+margin-top: -15px;
+
+}
+
+header{
+width: 100%;
+border: 2px solid #F2F1EB;
+background:#F2F1EB;
+clear: both;
+padding: 15px 0;
+height: 60px;
+margin-top: -7px;
+}
+.cabsobrenav {
+	margin:26px;
+	margin-left: 200px;
+	margin-right:10px;
+	margin-top: 15px;
+	font-size: 15px;
+}
+.cabsobrenav a {
+	padding:5px;
+}
+
+.todotexto {
+	text-align: justify;
+	font-size: 20px;
+}
+
+.ray{
+width: 800px;
+font-family: cargo-regular;
+}
+.ray h1{
+width: 250px;
+margin-top: -700px;
+margin-left: 240px;
+text-align: justify;
+font-size: 24px;
+}
+
+.ray p{
+width: 250px;
+margin-top: 5px;
+margin-bottom: 20px;
+margin-left: 240px;	
+text-align: justify;
+font-size: 20px;
+}
+.rayet {
+	margin-top: 650px;	
+}
+.rayet img{
+width: 200px;
+margin-right: 800px;
+margin-top: 500px;	
+}
+.tay{
+width: 800px;
+font-family: cargo-regular;
+}
+.tay h1{
+width: 250px;
+margin-top: -810px;
+margin-left: 530px;
+text-align: justify;
+font-size: 24px;
+}
+
+.tay p{
+width: 250px;
+margin-top: 5px;
+margin-bottom: 20px;
+margin-left: 530px;
+text-align: justify;
+font-size: 20px;
+}
+
+.tayet img{
+width: 200px;
+margin-left: 800px;
+margin-top: -850px;	
+}
+footer {
+width: 100%;
+border: 2px solid #F2F1EB;
+background:#F2F1EB;
+clear: both;
+padding: 19px 0;
+height: 60px;
+margin-top: 50px;
+}
+
+.rod1{
+right: 50px;
+left: 160px;
+display: inline-block;
+}	
+#ist{
+	display: flex;
+	
+}
+#eml{
+	display: flex;
+	margin-left:585px;
+}
+#ist_img{
+	margin:5px;
+	margin-right:10px;
+	margin-left:25px;
+}
+#ist_img2{
+	margin:5px;
+	margin-right:10px;
+	margin-left:10px;
+}
+a{
+	text-decoration: none ;
+	color:black;
+}
+
+a:hover{
+	color:#fff;
+}
+.social2 a:hover{
+	color:#C8AC9C;
+}
+#card img:hover{
+	 transform: scale(0.8, 0.8);
+    background:white;
+    box-shadow: 2px 2px 20px rgba(0,0,0,.5);
+}
+.social2{
+	text-align:left;
+}
+.social{
+	text-align:right;
+}
+

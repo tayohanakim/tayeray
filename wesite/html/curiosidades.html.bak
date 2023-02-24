@@ -1,0 +1,51 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Experiências</title>
+		<link rel="stylesheet" href="../css/experiencias.css">
+		<link href= "wesite/font/cardo" rel='stylesheet'>
+		 <link rel="stylesheet" href="css/bootstrap.css">
+		 <link href='https://css.gg/instagram.css' rel='stylesheet'>
+	</head>
+		<body>
+			<header class= "cabsobre">
+				<label class="titulo">Tay & Ray</label>
+				<nav class="cabsobrenav">
+						<a href="index.html">HOME PAGE</a> <!-- para virar link será utilizado o "a" -->
+						<a href="sobrenos.html">SOBRE NÓS</a>
+						<a href="experiencias.html"class="experiencias">EXPERIÊNCIAS</a>
+						<a href="curiosidades.html">CURIOSIDADES</a>
+				</nav>
+			</header>
+			<span class="ray">
+				<span class="rayet"> 
+					<img src="../fotos/expray.png" alt="Rayana"> </a>
+				</span>
+				<h1 class="titlename"> Rayana </h1>
+				<p> Atualmente atuando como Auxiliar de Marketing.</p>
+
+				<p>Empresa: Consórcio Ótimo de Bilhetagem Eletrônica.</p> 
+
+				<p>Período: Jun. de 2022 – Atualmente</p>
+
+				<p>Descrição: Trabalhei durante 6 meses como jovem aprendiz da TAQE para a empresa Atlas Schindler, 
+				realizando atividades administrativas. Até que eu tive a oportunidade de ser efetivada em outra empresa, 
+				onde fui indicada pela minha irmã. Iniciando como operadora de telemarketing na empresa Consórcio de Bilhetagem Eletrônica Ótimo, 
+				obtive experiência no ramo de atendimento ao cliente. Porém com um mês de empresa, briu uma vaga no setor de marketing, e fui promovida
+				para o setor de marketing. </p>
+ 				</span>
+			<span class="tay">	
+				<h1 class="titlename"> Tayohana </h1>
+				<p> Atualmente atuando como Auxiliar de Backoffice.</p>
+
+				<p>Empresa: Consórcio Ótimo de Bilhetagem Eletrônica.</p> 
+
+				<p>Período: Set. de 2017 – Atualmente</p>
+
+				<p>Descrição: Iniciou como Atendente de Vendas na bilheteria, com a função de recarregar os cartões de Pessoa Física. 
+				Em 2019, mudou de função para Operadora de Telemarketing Receptivo, com ao atendimento ao cliente nas ligações, no WhatsApp e realizando 
+				as tratativas da Ouvidoria do site da empresa. E em 2022, obteve novamente a mudança de função para o cargo atual, com o objetivo de cuidar 
+				das rotinas administrativas do setor, realizando a emissão de relatórios , abertura de chamados e dando suporte a equipe.</p>
+ 				</span><span class="rayet"> 
+					<img src="../fotos/exptay.png" alt="Tayohana"> </a>
+				</span>

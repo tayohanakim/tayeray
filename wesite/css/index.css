@@ -1,0 +1,31 @@
+
+*{margin: 0; padding: 0;}
+body {
+background: url(../gif/fundopag.gif)
+}
+
+.logo {
+max-width:200px;
+max-height:150px;	
+}	
+
+.menu-opcoes ul li {
+font-family: "Codec-Cold-Regular-trial"
+font-size: 15px
+font-color: black
+display: inline; 
+margin-left: 20px;
+}
+.menu li{
+position:relative;
+float:left;
+border-right:1px solid #c0c0c0;
+}
+
+.container {
+margin: 0 auto;
+width: 940px; 
+}
+.menu-opcoes a {
+color: #003366;
+}

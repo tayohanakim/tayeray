@@ -1,0 +1,114 @@
+@font-face	{
+		font-family: Buffalo;
+		src:	url(modernline.otf);
+		font-family: cargo-regular;
+		src: url(Cardo-Regular.ttf);
+}
+body {
+background: url(../gif/fundopag.gif);
+width: 1024px;
+margin-left: 200px;
+margin-right: 200px;
+padding-left: 200px;
+padding-right:200px;
+font-family: cargo-regular; 
+font-size: 12px;
+text-align: center
+}
+
+.logo { 
+font-family: Buffalo;
+font-size: 70px;
+text-align: center;
+}
+
+.curriculo {
+color: #748250	
+}
+
+.menu-opcoes {	
+font-family: cargo-regular;
+font-size: 18px;
+display: inline;
+}
+
+sfv {
+margin-top: 1px;
+margin-bottom: 1px;
+margin-left:1px;
+position: center;
+} 
+
+.tayray {
+	width: 1024px;
+	margin-top: 50px;
+}
+.tayray img{
+width: 380px;
+position:center;
+margin: 25px;
+}
+.tayray a { 
+ margin: 120px;
+ font-size: 20px;
+}
+.texto p{
+	font-size: 20px;
+}
+
+
+footer {
+width: 100%;
+border: 2px solid #F2F1EB;
+background:#F2F1EB;
+clear: both;
+padding: 19px 0;
+height: 60px;
+margin-top: 50px;
+}
+
+.rod1{
+right: 50px;
+left: 160px;
+display: inline-block;
+}	
+#ist{
+	display: flex;
+	
+}
+#eml{
+	display: flex;
+	margin-left:585px;
+}
+#ist_img{
+	margin:5px;
+	margin-right:10px;
+	margin-left:25px;
+}
+#ist_img2{
+	margin:5px;
+	margin-right:10px;
+	margin-left:10px;
+}
+a{
+	text-decoration: none ;
+	color:black;
+}
+
+a:hover{
+	color:#fff;
+}
+.social2 a:hover{
+	color:#C8AC9C;
+}
+#card img:hover{
+	 transform: scale(0.8, 0.8);
+    background:white;
+    box-shadow: 2px 2px 20px rgba(0,0,0,.5);
+}
+.social2{
+	text-align:left;
+}
+.social{
+	text-align:right;
+}
